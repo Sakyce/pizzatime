@@ -1,0 +1,55 @@
+{
+    "hurryup" :{
+        "sounds": [
+            {
+                "name": "pizzatime:hurryup",
+                "volume": 0.8,
+                "pitch": 1,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "pizzatime" :{
+        "sounds": [
+            {
+                "name": "pizzatime:pizzatime",
+                "volume": 0.8,
+                "pitch": 1,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "deservioli" :{
+        "sounds": [
+            {
+                "name": "pizzatime:deservioli",
+                "volume": 0.8,
+                "pitch": 1,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "newlap" :{
+        "sounds": [
+            {
+                "name": "pizzatime:newlap",
+                "volume": 0.8,
+                "pitch": 1,
+                "weight": 1
+            }
+        ]
+    },
+    "victory" :{
+        "sounds": [
+            {
+                "name": "pizzatime:victory",
+                "volume": 0.8,
+                "pitch": 1,
+                "weight": 1
+            }
+        ]
+    }
+}
